@@ -75,7 +75,7 @@ Evaluation metrics used:
 
 <img width="574" height="152" alt="image" src="https://github.com/user-attachments/assets/0751e38a-302e-4546-8558-50c0e88d5df1" />
 
-Data set: click on the 'email.csv' file
+Data set: click on the 'emails.csv' file
 
 How to Run the Project:
 
