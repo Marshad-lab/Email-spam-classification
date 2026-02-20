@@ -1,0 +1,7 @@
+spacy
+string
+pandas 
+matplotlib.pyplot
+seaborn
+sklearn
+spacy.lang.en
