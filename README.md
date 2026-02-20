@@ -78,4 +78,4 @@ Evaluation metrics used:
 
 How to Run the Project:
 
-Open Jupyter Notebook or Google Colab and run: spam_classification.ipynb
+Open Jupyter Notebook or Google Colab and run: E_mail_spam_classification.ipynb
